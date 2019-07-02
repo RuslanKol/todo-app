@@ -1,0 +1,15 @@
+.board {
+
+}
+
+.board__column {
+    width: 400px;
+    border: 1px solid #eeeeee;
+    border-radius: 10px;
+    margin: 10px 0 0 10px;
+    padding: 0 10px;
+}
+
+.board__column h3 {
+    text-align: center;
+}
